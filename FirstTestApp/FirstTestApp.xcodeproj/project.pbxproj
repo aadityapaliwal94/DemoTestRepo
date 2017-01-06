@@ -215,6 +215,7 @@
 				TargetAttributes = {
 					FBD4C1C41E1FC26F0059B158 = {
 						CreatedOnToolsVersion = 8.2;
+						DevelopmentTeam = 6VNRN23S48;
 						ProvisioningStyle = Automatic;
 					};
 					FBD4C1E31E1FC26F0059B158 = {
@@ -432,6 +433,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 6VNRN23S48;
 				INFOPLIST_FILE = FirstTestApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Newput.FirstTestApp;
@@ -443,6 +445,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 6VNRN23S48;
 				INFOPLIST_FILE = FirstTestApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Newput.FirstTestApp;
