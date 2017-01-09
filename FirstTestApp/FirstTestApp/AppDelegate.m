@@ -28,7 +28,7 @@
     MasterViewController *controller = (MasterViewController *)masterNavigationController.topViewController;
     controller.managedObjectContext = self.persistentContainer.viewContext;
     return YES;
-}
+
 
 
 - (void)applicationWillResignActive:(UIApplication *)application {
